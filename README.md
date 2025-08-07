@@ -28,6 +28,9 @@ We confirm the person creating the new microsoft account is an human. We maintai
 
 <img width="511" height="687" alt="image" src="https://github.com/user-attachments/assets/6acaa4d1-6a69-4dd6-8f2a-377d50a07846" />
 
-We answer some questions
+We **answer some questions**
 
 <img width="583" height="682" alt="image" src="https://github.com/user-attachments/assets/e9b593f7-ada0-4df9-9046-2dce4027ef11" />
+
+We **Login** in the new Microsoft Account
+
