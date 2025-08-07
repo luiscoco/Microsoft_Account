@@ -16,7 +16,11 @@ We also set the **password**
 
 <img width="538" height="559" alt="image" src="https://github.com/user-attachments/assets/3237d019-7215-4227-a8d6-8d1b57a49320" />
 
-We add the birthday date
+We add the **birthday date**
 
 <img width="536" height="752" alt="image" src="https://github.com/user-attachments/assets/4cfcfde5-f446-40c9-b87a-3027f6d15948" />
+
+We add the **account name**
+
+<img width="536" height="735" alt="image" src="https://github.com/user-attachments/assets/e26ee034-f371-4607-9d5d-2319eb2ec6ca" />
 
