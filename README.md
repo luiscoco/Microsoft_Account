@@ -24,3 +24,7 @@ We add the **account name**
 
 <img width="536" height="735" alt="image" src="https://github.com/user-attachments/assets/e26ee034-f371-4607-9d5d-2319eb2ec6ca" />
 
+We confirm the person creating the new microsoft account is an human
+
+<img width="511" height="687" alt="image" src="https://github.com/user-attachments/assets/6acaa4d1-6a69-4dd6-8f2a-377d50a07846" />
+
